@@ -9,7 +9,24 @@ This repository is used primarily for tracking issues (during Beta testing) in F
 
 ## FAALCAn Beta Updates
 
-#### 2024/10/03
+#### 2024/10/22 (Beta-0.9.3)
+
+* Background data updates.
+* Better administration of users: exporting userlist works.
+* Better handling of old user definitions (when underlying data has changed).
+* Fix for custom definitions to Sweeper Scrubber so that they work now.
+* Fix for balance engine: certain custom definitions are correctly included in LCA model.
+* Fix for table results: EOL transports are correctly added to overal impacts row.
+
+#### (Beta-0.9.2)
+
+* Updated most equipment models background data.
+* Updated many equipment parameters -- better display names that make purpose clear, removing unused one, enabling editing of useful ones.
+* Allowing additional materials to be added to LCA model manually (natural aggregate, Asphalt binder).
+* Fix to table view: all constituent materials are listed for an activity layer material.
+* Reporting fix for materials added manually.
+
+#### 2024/10/03  (Beta-0.9.1)
 
 * Added Unstabalized subgrade layer type (P-152), and cleaned up other subgrade layers.
 * Cleaned up errors when making user defintions for some equipments, chip seal coats.  And, fixed the naming of parameters from tokens to regular english.
@@ -19,6 +36,6 @@ This repository is used primarily for tracking issues (during Beta testing) in F
 * Improved _Getting Started_ document.
 * Other small bug fixes.
 
-#### 2024/09/18
+#### 2024/09/18 (Beta-0.9)
 
 * Official beta release meeting.
