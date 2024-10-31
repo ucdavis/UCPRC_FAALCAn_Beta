@@ -9,6 +9,12 @@ This repository is used primarily for tracking issues (during Beta testing) in F
 
 ## FAALCAn Beta Updates
 
+#### 2024/10/31 (Beta-0.9.4)
+
+* Source transports are enabled for most materials
+* Changed background data for Natural Aggregate and Cements
+* Improved Scraper hour estimation
+
 #### 2024/10/22 (Beta-0.9.3)
 
 * Background data updates.
